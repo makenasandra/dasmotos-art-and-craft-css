@@ -10,21 +10,21 @@ h1{
     background: url(../images/pattern.jpeg);
 }
 
-h2{
+.item h2{
     font-size: 32px;
     font-weight: bold;
     color: white;
 }
 
-.brushes-section h2{
+#brushes{
     background-color: mediumspringgreen;
 }
 
-.frames-section h2{
+#frames{
     background-color: lightcoral;
 }
 
-.paint-section h2{
+#paint{
     background-color: skyblue;
 }
 
